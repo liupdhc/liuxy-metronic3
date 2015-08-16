@@ -178,3 +178,27 @@ bootstrap-touchspin/bootstrap.touchspin.min.js
 
 
 layerslider插件在页面中单独引用，此组件仅在index.html、index-light-footer.html页面被引用
+
+单页面插件说明
+-------------
+`core.min.js`
+
+包含以下插件：
+```
+jquery.min.js
+jquery-migrate.min.js
+bootstrap.min.js
+```
+
+`plugins.min.js`
+
+包含以下插件：
+```
+jquery.fancybox.pack.min.js
+jquery-easying-1.3.min.js
+jquery.parallax.min.js
+jquery.scrollTo.min.js
+jquery.nav.min.js
+```
+
+顶部轮播插件使用的是slider-revolution-slider
